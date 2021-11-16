@@ -32,7 +32,11 @@ spicetify backup apply
 
 6. The \_Never Autoplay` option should now be available in the Spotify menu by clicking on your profile.
 
-## Caveats
+## Caveats & Limitations
+
+### Desktop only
+
+Due to this extension requiring Spicetify it is limited to desktop versions of Spotify and will not work on the Web or Mobile instances.
 
 ### Your Recently Played will include the first song in the Autoplay queue
 
