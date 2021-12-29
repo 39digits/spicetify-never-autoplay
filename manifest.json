@@ -2,7 +2,7 @@
     "name": "Spicetify Never Autoplay",
     "description": "This extension will pause Spotify automatically if it detects the track source is from Autoplay.",
     "preview": "",
-    "main": "neverAutopplay.js",
+    "main": "neverAutoplay.js",
     "readme": "README.md",
     "authors": [
         { "name": "39digits", "url": "https://github.com/39digits" }
